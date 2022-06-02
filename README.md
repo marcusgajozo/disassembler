@@ -8,7 +8,7 @@ em linguagem de máquina é convertido novamente para linguagem de montagem.
 O software desenvolvido em Java suporta todas as instruções da 
 arquitetura ISA MARIE. Cada instrução tem 2 bytes(16 bits) de 
 tamanho, os 4 primeiros bits são o opcode(operação) e os outros 
-12 bits são o endereço da instrução...
+12 bits são o endereço da instrução.
 
 ### Exemplo de execução:
 
